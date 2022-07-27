@@ -6,6 +6,8 @@ then prints the text with capitalized proper nouns
 by printing the first item ([0]) in each list with a ' ' at the end of each word
 
 One problem is words like 'us' (U.S. - for United States) are converted to 'Us'
+
+As an indication, this took around 1 hour to process about 2,700 medium length YouTube transcripts
 '''
 
 import os, glob
