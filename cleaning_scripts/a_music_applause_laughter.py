@@ -1,6 +1,6 @@
 '''
 This script deletes all of the lines with '[Music]', '[Laughter]' or '[Applause]' in them
-In YOuTube ASR transcripts, these only appear in a line with no other text
+In YouTube ASR transcripts, these only appear in a line with no other text
 It's a good idea to make a copy of the folder (and subfolders) containing the transcripts
 Then run the script in the new folder
 This script will amend every plain text file in the folder (and in any subfolders) from where it is run
