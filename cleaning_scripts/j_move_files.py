@@ -1,5 +1,5 @@
 '''
-IMPORTANT: before runing this script, create a new folder called 'short_texts'
+IMPORTANT: before running this script, create a new folder called 'short_texts'
 in the directory that you run this script from, otherwise the files will be lost
 (this might not be a big problem if you are deleting the files anyway)
 
